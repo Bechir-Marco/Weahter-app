@@ -32,7 +32,23 @@ header a {
     color: #888888;
     text-decoration: none;
     margin-right: 16px;
+    font-weight: bold;
 }
 .portrait {
     width: 350px;
+}
+input {
+    border: 1px solid #cccccc;
+    padding: 8px;
+}
+button {
+    cursor: pointer;
+    border: 1px solid #888888;
+    background-color: #888888;
+    color: white;
+    padding: 8px;
+}
+div p {
+    color: #545252;
+    font-weight: bold;
 }

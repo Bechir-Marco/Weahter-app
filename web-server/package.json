@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No test specified\" && exit 1",
     "start": "node web-server/src/app.js"
   },
   "repository": {

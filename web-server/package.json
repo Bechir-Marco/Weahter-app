@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Bechir-Marco/Weahter-app#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "postman-request": "^2.88.1-postman.32"
   }
 }
